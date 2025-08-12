@@ -18,7 +18,7 @@
     "paths": {
       "@/*": ["./src/*"]
     },
-    "types": ["node", "postcss-load-config"],
+    "types": ["node", "postcss"],
     "plugins": [
       {
         "name": "next"
